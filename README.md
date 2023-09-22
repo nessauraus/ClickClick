@@ -1,2 +1,2 @@
 # ClickClick
-My photography from the past year. 
+Some of my photography from the past year. 
