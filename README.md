@@ -23,5 +23,8 @@ Some of my photography from the past year.
     <p>
       A photograph of people and paragliders enjoying themselves on a sunny day.
     </p>
+    <style>
+      body {background:linen;}
+    </style>
   </body>
 </html>
